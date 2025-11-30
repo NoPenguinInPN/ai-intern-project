@@ -1,0 +1,5 @@
+{
+  "CHAT_API_URL": "http://170.18.10.21:6001/v1/chat/completions",
+  "EMBED_API_URL": "http://170.18.10.21:6002/v1/embeddings",
+  "MODEL_API_KEY": ""
+}
